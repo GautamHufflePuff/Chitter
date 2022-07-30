@@ -1,12 +1,12 @@
-/// Your web app's Firebase configuration
+// Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyCvZib8Icdag3Sz8Kv4rVz1_MUMS2YYLf8",
-  authDomain: "chitter-6ead8.firebaseapp.com",
-  databaseURL: "https://chitter-6ead8-default-rtdb.firebaseio.com",
-  projectId: "chitter-6ead8",
-  storageBucket: "chitter-6ead8.appspot.com",
-  messagingSenderId: "230864487117",
-  appId: "1:230864487117:web:62267aaa953b5bc138df84",
+  apiKey: "AIzaSyAEg_59e5Q2y138GPjncPWiP1mMxqwc53s",
+  authDomain: "chitter-chat-app-3f709.firebaseapp.com",
+  databaseURL: "https://chitter-chat-app-3f709-default-rtdb.firebaseio.com",
+  projectId: "chitter-chat-app-3f709",
+  storageBucket: "chitter-chat-app-3f709.appspot.com",
+  messagingSenderId: "969306437020",
+  appId: "1:969306437020:web:5766d837921581bce68459",
 };
 
 // Initialize Firebase
